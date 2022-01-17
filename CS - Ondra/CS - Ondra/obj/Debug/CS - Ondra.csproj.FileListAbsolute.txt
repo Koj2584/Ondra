@@ -1,0 +1,10 @@
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\bin\Debug\CS - Ondra.exe.config
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\bin\Debug\CS - Ondra.exe
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\bin\Debug\CS - Ondra.pdb
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.csprojAssemblyReference.cache
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS___Ondra.Form1.resources
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS___Ondra.Properties.Resources.resources
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.csproj.GenerateResource.cache
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.csproj.CoreCompileInputs.cache
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.exe
+G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.pdb
