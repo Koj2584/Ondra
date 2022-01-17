@@ -19,11 +19,20 @@ namespace CS___Ondra
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            timer1.Tick += new EventHandler(program);
+            timer1.Stop();
+            timer1.Start();
+            timer2.Stop();
+            timer2.Start();
+            label1.ForeColor = Color.Black;
+            label1.Text = "Výpočet se provede za 2s";
         }
 
-        public void program(object sender, EventArgs e)
+        private void timer1_Tick(object sender, EventArgs e)
         {
+            label1.Text = "Výpočet se provede za 0s";
+            timer3.Stop();
+            timer3.Start();
+            timer1.Stop();
             try
             {
                 int vstup = int.Parse(textBox1.Text);
@@ -56,6 +65,18 @@ namespace CS___Ondra
                 label1.Text = "Neplatný formát";
                 label1.ForeColor = Color.Red;
             }
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            timer2.Stop();
+            label1.Text = "Výpočet se provede za 1s";
+        }
+
+        private void timer3_Tick(object sender, EventArgs e)
+        {
+            timer3.Stop();
+            label1.Text = "";
         }
     }
 }
