@@ -8,3 +8,13 @@ G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.cs
 G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.csproj.CoreCompileInputs.cache
 G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.exe
 G:\Dokumenty\CS - Ondra\CS - Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.pdb
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\bin\Debug\CS - Ondra.exe.config
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\bin\Debug\CS - Ondra.exe
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\bin\Debug\CS - Ondra.pdb
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.csprojAssemblyReference.cache
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS___Ondra.Form1.resources
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS___Ondra.Properties.Resources.resources
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.csproj.GenerateResource.cache
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.exe
+D:\Koj\Programování\C#\Ondra\CS - Ondra\CS - Ondra\obj\Debug\CS - Ondra.pdb

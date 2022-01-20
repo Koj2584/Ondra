@@ -43,7 +43,8 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(43, 4);
+            this.textBox1.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.textBox1.Location = new System.Drawing.Point(77, 4);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(159, 20);
             this.textBox1.TabIndex = 0;
@@ -52,10 +53,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label1.Font = new System.Drawing.Font("Impact", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label1.Location = new System.Drawing.Point(48, 376);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 20);
+            this.label1.Size = new System.Drawing.Size(0, 26);
             this.label1.TabIndex = 1;
             // 
             // timer1
@@ -70,7 +71,7 @@
             this.listBox1.Location = new System.Drawing.Point(45, 166);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(255, 186);
-            this.listBox1.TabIndex = 2;
+            this.listBox1.TabIndex = 15;
             // 
             // timer2
             // 
@@ -95,12 +96,12 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label3.Location = new System.Drawing.Point(2, 7);
+            this.label3.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label3.Location = new System.Drawing.Point(18, 4);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(40, 13);
+            this.label3.Size = new System.Drawing.Size(56, 20);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Číslo n";
+            this.label3.Text = "Číslo n:";
             // 
             // panel1
             // 
@@ -108,7 +109,7 @@
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Location = new System.Drawing.Point(45, 127);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(213, 33);
+            this.panel1.Size = new System.Drawing.Size(255, 33);
             this.panel1.TabIndex = 5;
             // 
             // Form1
@@ -122,7 +123,7 @@
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Hra s čísli";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);

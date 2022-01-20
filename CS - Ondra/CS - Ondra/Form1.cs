@@ -59,6 +59,22 @@ namespace CS___Ondra
                     label1.Text = "Číslo není kladné!!";
                     label1.ForeColor = Color.Red;
                 }
+                if(vstup != 0)
+                {
+                    listBox1.Items.Clear();
+                    for(int i = 1;i<=Math.Abs(vstup);i++)
+                    {
+                        if(vstup%i==0)
+                        {
+                            listBox1.Items.Add(i + " je dělitel čísla " + vstup);
+                        }
+                    }
+                }
+                else
+                {
+                    label1.Text = "Číslo Je nula!!";
+                    label1.ForeColor = Color.Red;
+                }
             }
             catch
             {
