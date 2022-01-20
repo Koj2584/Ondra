@@ -49,10 +49,10 @@ namespace CS___Ondra
                             cifSouc += cifra;
                             pVstup /= 10;
                         }
-                        MessageBox.Show("Ciferný součin je " + cifSouc);
+                        MessageBox.Show("Ciferný součet je " + cifSouc);
                     }
                     else
-                        MessageBox.Show("Ciferný součin je " + vstup);
+                        MessageBox.Show("Ciferný součet je " + vstup);
                 }
                 else
                 {
